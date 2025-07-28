@@ -1,0 +1,17 @@
+# Ignore model directory
+geethz_chatbot.model/
+
+# Ignore serialized data files
+*.pkl
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environment (if any)
+venv/
+.env

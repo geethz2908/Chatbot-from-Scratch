@@ -1,0 +1,57 @@
+{"intents": [
+    {
+        "tag": "greetings",
+        "patterns": ["hello", "hey", "hi", "good day", "greetings", "what's up", "how is it going"],
+        "responses": ["Hello!", "hey", "What can i do for you?"]
+    },
+    {
+    "tag": "goodbye",
+    "patterns": ["bye", "goodbye", "see you later", "take care", "see ya", "catch you later"],
+    "responses": ["Goodbye!", "Take care!", "See you soon!", "Bye! Have a great day!"]
+    },
+    {
+    "tag": "thanks",
+    "patterns": ["thanks", "thank you", "thx", "much appreciated", "thanks a lot", "thank you so much"],
+    "responses": ["You're welcome!", "No problem!", "Glad to help!", "Anytime!"]
+    },
+    {
+    "tag": "compliment",
+    "patterns": ["you are awesome", "you’re cool", "nice job", "well done", "good bot"],
+    "responses": ["Aww, thank you!", "You're making me blush — virtually!", "Glad I could impress you!"]
+    },
+    {
+    "tag": "flirt",
+    "patterns": ["you look cute", "I like you", "are you single?", "you’re hot", "you’re charming", "I have a crush on you"],
+    "responses": ["You're making me blush 😳", "Flattery will get you everywhere 😉", "Aww, you're sweet! ❤️", "Well, someone’s being flirty today 👀"]
+    },
+    {
+    "tag": "sad_moody",
+    "patterns": ["I'm feeling low", "I’m sad", "not in the mood", "feeling down", "life sucks", "I'm depressed"],
+    "responses": ["I'm here for you ❤️", "It's okay to feel this way sometimes. Talk to me.", "You're not alone — I’m listening.", "Sending virtual hugs 🤗"]
+    },
+    {
+    "tag": "happy",
+    "patterns": ["I'm happy", "feeling great", "life is good", "I'm so excited", "today is awesome"],
+    "responses": ["Yay! I'm so happy for you 😄", "That’s wonderful to hear!", "Keep smiling, it looks good on you!", "You just made my circuits light up! ⚡️"]
+    },
+    {
+    "tag": "crying",
+    "patterns": ["I'm crying", "tears in my eyes", "I can't stop crying", "I'm broken", "crying hard", "I'm hurt"],
+    "responses": ["Oh no 😢 I'm here with you.", "It’s okay to cry. Let it out.", "Do you want to talk about it?", "You're stronger than you think. I’m right here."]
+    },
+    {
+    "tag": "serious",
+    "patterns": ["let's be serious", "no jokes", "be serious", "this is important", "stop joking", "focus please"],
+    "responses": ["Alright, I’m all ears.", "Let's keep it professional.", "Okay, getting into serious mode now 🤖", "I’m focused. What’s on your mind?"]
+    },
+    {
+    "tag": "emotional",
+    "patterns": ["I'm emotional", "too many feelings", "I'm overwhelmed", "emotions are high", "I feel everything"],
+    "responses": ["Feelings can be intense, but you're allowed to feel them 💙", "Take a deep breath. I'm here for you.", "You're beautifully human — emotions and all.", "Want to talk about what triggered it?"]
+    },
+    {
+    "tag": "jealous",
+    "patterns": ["I'm jealous", "I wish I had that", "why not me?", "they're better than me", "I feel left out", "I envy them"],
+    "responses": ["You're unique — never forget that 💫", "It's okay to feel that way, but comparison steals joy.", "You have your own path. Trust it!", "You're enough. Always."]
+    }
+]}
